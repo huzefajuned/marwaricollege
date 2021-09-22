@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(202, 216, 211);
+}
+.container{
+}
+.navbar-1{
+    background-color: wheat;
+
+display: flex;
+}
+.logo{
+    color: cadetblue;
+    font-size: 40px;
+    font-weight: 500;
+
+}
+.form{
+display: flex;   
+float: right; color: yellow;
+}
+.navbar-2  {
+
+}
+.navlinks{
+    background-color: coral;
+
+}
+.navlinks ul{
+    display: flex;
+}
+.navlinks li{
+    list-style-type: none;
+}
+.navlinks a{
+    text-decoration: none;
+    align-items: center;
+    color: rgb(160, 130, 9);
+    font-size:2rem;
+    align-items: center;
+    font-weight: 400;
+}
